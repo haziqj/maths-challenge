@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = ""
+title = "Previous Challenges"
 subtitle = ""
 
 [content]
@@ -33,7 +33,7 @@ subtitle = ""
     
   [content.archive]
     enable = true
-    text = "See all blog posts"
+    text = "See all challenges"
     link = "post/"
     
 [design]
