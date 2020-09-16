@@ -1,14 +1,22 @@
 +++
-# About widget.
-widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "people"  # Use the People widget
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
 
-title = "Hello"
+# ... Put Your Section Options Here (title etc.) ...
 
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "haziqj"
+[content]
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups = ["Challengers"]
+
+[design]
+  # Show user's social networking links? (true/false)
+  show_social = false
+
+  # Show user's interests? (true/false)
+  show_interests = true
 +++
+
+# Got what it takes?
+
+Welcome to UBD Maths Challenge, where challenging maths questions are posed for students to answer. Questions will be opened for 2 weeks, after which solutions will be posted. Browse through previous challenges here.

@@ -11,7 +11,7 @@ role: Assistant Professor in Statistics
 # Organizations/Affiliations
 organizations:
 - name: Universiti Brunei Darussalam
-  url: "https://haziqj.ml"
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Statistician in perpetual training.
@@ -58,9 +58,8 @@ bio: Statistician in perpetual training.
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Challengers
 ---
 
 Welcome to UBD Maths Challenge.
